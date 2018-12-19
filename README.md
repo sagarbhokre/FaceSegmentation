@@ -3,16 +3,16 @@
 
 ### A wrapper script has been implemened on top of base repository to ease execution
 
-<type> can be local or city 
+\<type\> can be local or city 
 
 ## Training the model 
-./run.sh <type> train
+./run.sh \<type\> train
 
 ## Getting Predictions
-./run.sh <type> predict 4
+./run.sh \<type\> predict 4
 
 ## Visualize dataset
-./run.sh <type> visualize
+./run.sh \<type\> visualize
 
 
 
